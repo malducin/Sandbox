@@ -10,7 +10,7 @@ namespace CSharpGenerics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Git from Visual Studion");
+            Console.WriteLine("Hallo Git from Visual Studio");
         }
     }
 }
