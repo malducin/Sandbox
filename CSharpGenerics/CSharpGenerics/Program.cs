@@ -20,6 +20,7 @@ namespace CSharpGenerics
                 Console.WriteLine("The count of employees for {0} is {1}",
                             item.Key, item.Value.Count
                         );
+                Console.ReadLine();
             }
         }
     }
